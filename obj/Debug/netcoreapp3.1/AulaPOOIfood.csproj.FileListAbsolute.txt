@@ -1,0 +1,13 @@
+D:\Thiago\Projetos\C#\AulaPOOIfood\bin\Debug\netcoreapp3.1\AulaPOOIfood.exe
+D:\Thiago\Projetos\C#\AulaPOOIfood\bin\Debug\netcoreapp3.1\AulaPOOIfood.deps.json
+D:\Thiago\Projetos\C#\AulaPOOIfood\bin\Debug\netcoreapp3.1\AulaPOOIfood.runtimeconfig.json
+D:\Thiago\Projetos\C#\AulaPOOIfood\bin\Debug\netcoreapp3.1\AulaPOOIfood.runtimeconfig.dev.json
+D:\Thiago\Projetos\C#\AulaPOOIfood\bin\Debug\netcoreapp3.1\AulaPOOIfood.dll
+D:\Thiago\Projetos\C#\AulaPOOIfood\bin\Debug\netcoreapp3.1\AulaPOOIfood.pdb
+D:\Thiago\Projetos\C#\AulaPOOIfood\obj\Debug\netcoreapp3.1\AulaPOOIfood.csprojAssemblyReference.cache
+D:\Thiago\Projetos\C#\AulaPOOIfood\obj\Debug\netcoreapp3.1\AulaPOOIfood.csproj.CoreCompileInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOIfood\obj\Debug\netcoreapp3.1\AulaPOOIfood.AssemblyInfoInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOIfood\obj\Debug\netcoreapp3.1\AulaPOOIfood.AssemblyInfo.cs
+D:\Thiago\Projetos\C#\AulaPOOIfood\obj\Debug\netcoreapp3.1\AulaPOOIfood.dll
+D:\Thiago\Projetos\C#\AulaPOOIfood\obj\Debug\netcoreapp3.1\AulaPOOIfood.pdb
+D:\Thiago\Projetos\C#\AulaPOOIfood\obj\Debug\netcoreapp3.1\AulaPOOIfood.genruntimeconfig.cache
